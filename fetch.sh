@@ -1,3 +1,3 @@
 #!/bin/bash
 
-git fetch "https://roarb:Randomland42@github.com/roarb/PacklyticsV3.git"
+git fetch --tags "https://roarb:Randomland42@github.com/roarb/gitTest.git"
